@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahen Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<h3 align="center">A passionate Full-Stack MERN Developer from Bangladesh</h3>
+<p>
+Hello! Technology has revolutionized our world, and my fascination with it continues to grow. I'm passionate about programming and love exploring different tech tools. For me, it's more than just building web applications; it's about creating innovative solutions and shaping the future with code and creativity. Let's collaborate and build extraordinary things, one line of code at a time!
+ 
+</p>
 <img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding" align="right" width="1000" height="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="developer-mahin" /> </p>
