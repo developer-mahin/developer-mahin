@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Mahen Khan
-<h3 align="center">A passionate Full-Stack MERN Developer from Bangladesh</h3>
+### Full-Stack Software Engineer | Backend-Focused | SaaS & System Design Enthusiast
 <p>
-Hello! Technology has revolutionized our world, and my fascination with it continues to grow. I'm passionate about programming and love exploring different tech tools. For me, it's more than just building web applications; it's about creating innovative solutions and shaping the future with code and creativity. Let's collaborate and build extraordinary things, one line of code at a time!
+Building scalable SaaS platforms, enterprise web applications, and modern backend systems using Node.js, TypeScript, PostgreSQL, Prisma, React, and Next.js.
+
+Passionate about clean architecture, performance optimization, and solving real-world engineering challenges.
  
 </p>
 <img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding" align="right" width="1000" height="400" />
