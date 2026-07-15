@@ -2,8 +2,6 @@
 
 ### Full-Stack Software Engineer | Backend-Focused | SaaS & System Design Enthusiast
 
-<img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding" align="right" width="380" height="200" />
-
 I'm Mahen Khan, a passionate Full-Stack Software Engineer dedicated to building scalable, high-performance web applications and enterprise software.
 
 With experience across both frontend and backend technologies, I enjoy transforming complex business requirements into reliable, maintainable, and user-friendly solutions.
