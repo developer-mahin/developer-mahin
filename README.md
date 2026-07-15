@@ -1,10 +1,24 @@
 # Hi there 👋 I'm Mahen Khan
 
-### Full-Stack Software Engineer • Backend Engineer • SaaS Developer
+### Full-Stack Software Engineer | Backend-Focused | SaaS & System Design Enthusiast
 
 <img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding" align="right" width="380" height="200" />
 
-Software engineer from Bangladesh building scalable backend systems, SaaS platforms, and enterprise-grade web applications. I focus on clean architecture, performance optimization, and solving complex engineering problems — backend-first with **Node.js** & **TypeScript**, full-stack with **React** & **Next.js**.
+I'm Mahen Khan, a passionate Full-Stack Software Engineer dedicated to building scalable, high-performance web applications and enterprise software.
+
+With experience across both frontend and backend technologies, I enjoy transforming complex business requirements into reliable, maintainable, and user-friendly solutions.
+
+My technical expertise includes:
+
+• Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs
+
+• Frontend: React, Next.js, TypeScript, Tailwind CSS
+
+• Tools: Docker, Git, GitHub, Linux
+
+Currently, I'm focused on developing enterprise SaaS platforms for e-commerce businesses, featuring multi-tenancy, order management, inventory, CRM, finance, warehouse management, and automation systems.
+
+I continuously strive to improve my engineering skills by learning software architecture, performance optimization, cloud technologies, and distributed systems.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=developer-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
