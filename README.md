@@ -2,63 +2,51 @@
 
 ### Full-Stack Software Engineer • Backend Engineer • SaaS Developer
 
-I'm a software engineer from Bangladesh passionate about building scalable backend systems, SaaS platforms, and enterprise-grade web applications.
+<img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding" align="right" width="380" height="200" />
 
-I enjoy designing clean architectures, optimizing performance, and solving complex engineering problems. My primary focus is backend development with Node.js and TypeScript while building modern full-stack applications with React and Next.js.
+Software engineer from Bangladesh building scalable backend systems, SaaS platforms, and enterprise-grade web applications. I focus on clean architecture, performance optimization, and solving complex engineering problems — backend-first with **Node.js** & **TypeScript**, full-stack with **React** & **Next.js**.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=developer-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full-Stack Software Engineer
-- ⚡ Backend-focused developer
-- 🏗️ Building scalable SaaS platforms
-- 🔥 Interested in System Design & Distributed Systems
-- 🌱 Currently learning Go and Microservices
-- ❤️ Passionate about Clean Architecture, SOLID Principles & Performance Optimization
+- 💼 Full-Stack Software Engineer, backend-focused
+- 🏗️ Building scalable, multi-tenant SaaS platforms
+- 🔥 Deep interest in **System Design & Distributed Systems**
+- 🌱 Currently exploring **Go** and **Microservices**
+- ❤️ Advocate of **Clean Architecture**, **SOLID Principles** & performance-first engineering
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+**Backend**
 
-- Node.js
-- Express.js
-- TypeScript
-- PostgreSQL
-- Prisma ORM
-- MongoDB
-- Redis
-- BullMQ
-- REST API
-- JWT Authentication
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,postgresql,prisma,mongodb,redis" />
+</p>
 
-### Frontend
+**Frontend**
 
-- React
-- Next.js
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
-- Material UI
-- Shadcn UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+</p>
 
-### DevOps & Tools
+**DevOps & Tools**
 
-- Docker
-- Linux
-- Git
-- GitHub
-- Nginx
-- PM2
-- Vercel
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vercel" />
+</p>
 
 ---
 
 ## 💼 What I'm Working On
 
-Currently building enterprise SaaS applications including:
+Architecting enterprise SaaS applications, including:
 
 - 🛒 Multi-Tenant eCommerce CRM
 - 📦 Inventory & Warehouse Management
@@ -73,73 +61,34 @@ Currently building enterprise SaaS applications including:
 
 ## 🎯 Areas of Interest
 
-- Backend Engineering
-- SaaS Architecture
-- Distributed Systems
-- System Design
-- API Development
-- Database Design
-- Performance Optimization
-- Software Architecture
-
----
-
-## 🌐 Portfolio
-
-**Portfolio**
-
-👉 https://developer-mahin.vercel.app
-
----
-
-## 📫 Contact
-
-📧 Email
-
-**mahenkhan83@gmail.com**
-
-💼 LinkedIn
-
-https://linkedin.com/in/md-mahen-khan
+`Backend Engineering` • `SaaS Architecture` • `Distributed Systems` • `System Design` • `API Development` • `Database Design` • `Performance Optimization` • `Software Architecture`
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=developer-mahin&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-mahin&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=developer-mahin&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-mahin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mahin&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mahin&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Portfolio & Contact
 
 <p align="left">
-
-<a href="https://linkedin.com/in/md-mahen-khan">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/mahinkh38241967">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="mailto:mahenkhan83@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://developer-mahin.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/md-mahen-khan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mahinkh38241967" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
+  <a href="mailto:mahenkhan83@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
 </p>
+
+🔗 **Portfolio:** [developer-mahin.vercel.app](https://developer-mahin.vercel.app) &nbsp;|&nbsp; 📧 **Email:** mahenkhan83@gmail.com
 
 ---
 
-> *"Great software isn't just about writing code—it's about designing systems that scale, perform, and solve real-world problems."*
+<p align="center"><i>"Great software isn't just about writing code — it's about designing systems that scale, perform, and solve real-world problems."</i></p>
