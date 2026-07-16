@@ -76,22 +76,12 @@ Architecting enterprise SaaS applications, including:
 `Backend Engineering` • `SaaS Architecture` • `Distributed Systems` • `System Design` • `API Development` • `Database Design` • `Performance Optimization` • `Software Architecture`
 
 ---
+## 📈 GitHub Statistics
 
-📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mahin&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/> </p>
-
-🔥 GitHub Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/> </p>
-
-📈 Contribution Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/> </p>
-
-🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/> </p>
 ---
 
 ## 🌐 Portfolio & Contact
