@@ -36,19 +36,19 @@ I continuously strive to improve my engineering skills by learning software arch
 
 ## 🛠 Tech Stack
 
-**Backend**
+## 💻 Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++,javascript,typescript,nodejs,express,postgresql,mongodb,prisma,mongoose,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,nodejs,express,postgresql,mongodb,prisma,redis,kafka" />
 </p>
 
-**Frontend**
+## 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,antdesign" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,antd" />
 </p>
 
-**DevOps & Tools**
+## ⚙️ DevOps & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx,vercel" />
