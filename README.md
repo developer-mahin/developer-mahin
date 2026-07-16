@@ -39,19 +39,19 @@ I continuously strive to improve my engineering skills by learning software arch
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,postgresql,prisma,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=c,c++,javascript,typescript,nodejs,express,postgresql,mongodb,prisma,mongoose,redis,kafka" />
 </p>
 
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,antdesign" />
 </p>
 
 **DevOps & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,ci/cd,docker,linux,git,github,nginx,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx,vercel" />
 </p>
 
 ---
