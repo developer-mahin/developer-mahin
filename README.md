@@ -51,7 +51,7 @@ I continuously strive to improve my engineering skills by learning software arch
 **DevOps & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,s3,ec2,vps,docker,linux,git,github,nginx,vercel" />
 </p>
 
 ---
