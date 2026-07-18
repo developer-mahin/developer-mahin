@@ -8,11 +8,9 @@ With experience across both frontend and backend technologies, I enjoy transform
 
 My technical expertise includes:
 
-• Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs
-
-• Frontend: React, Next.js, TypeScript, Tailwind CSS
-
-• Tools: Docker, Git, GitHub, Linux
+- 💻 **Backend:** Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, Mongoose, RESTful APIs
+- ⚛️ **Frontend:** React, Next.js, Tailwind CSS
+- ☁️ **DevOps & Cloud:** AWS, DigitalOcean, Docker, CI/CD, Linux, Git & GitHub
 
 Currently, I'm focused on developing enterprise SaaS platforms for e-commerce businesses, featuring multi-tenancy, order management, inventory, CRM, finance, warehouse management, and automation systems.
 
